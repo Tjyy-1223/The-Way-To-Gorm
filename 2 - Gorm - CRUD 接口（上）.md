@@ -1041,14 +1041,3 @@ db.Model(&User{}).Group("name").Count(&count)
 count // => 3
 ```
 
-
-
-## 2.4 更新
-
-
-
-## 2.5 删除
-
-
-
-## 2.6 SQL 构建器
